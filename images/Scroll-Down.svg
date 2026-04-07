@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="46" viewBox="0 0 28 46">
+  <g id="Scroll-Down" transform="translate(-153.131 -399.4)">
+    <g id="Rectangle_7573" data-name="Rectangle 7573" transform="translate(153.131 399.4)" stroke="#fff" stroke-width="1">
+      <rect width="28" height="46" rx="14" stroke="none"/>
+      <rect x="0.5" y="0.5" width="27" height="45" rx="13.5" fill="none"/>
+    </g>
+    <path id="Path_28941" data-name="Path 28941" d="M9.28.18a.581.581,0,0,0-.841,0,.581.581,0,0,0,0,.841l4.655,4.685H.6a.6.6,0,1,0,0,1.2H13.124L8.409,11.592a.58.58,0,0,0,0,.841.581.581,0,0,0,.841,0l5.706-5.706a.581.581,0,0,0,0-.841Z" transform="translate(173.619 421.198) rotate(90)" fill="#fff"/>
+  </g>
+</svg>
